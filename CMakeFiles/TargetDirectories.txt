@@ -1,0 +1,5 @@
+C:/Users/evell/Documents/Nova pasta/.vscode/CubeMxTest1/CMakeFiles/CubeMxTest1.dir
+C:/Users/evell/Documents/Nova pasta/.vscode/CubeMxTest1/CMakeFiles/edit_cache.dir
+C:/Users/evell/Documents/Nova pasta/.vscode/CubeMxTest1/CMakeFiles/rebuild_cache.dir
+C:/Users/evell/Documents/Nova pasta/.vscode/CubeMxTest1/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/evell/Documents/Nova pasta/.vscode/CubeMxTest1/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
